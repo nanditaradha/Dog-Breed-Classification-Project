@@ -1,0 +1,5 @@
+.DS_Store
+DogImages/
+lfw/
+.ipynb_checkpoints/
+-saved_models/
