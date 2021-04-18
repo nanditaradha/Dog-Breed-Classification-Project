@@ -1,10 +1,12 @@
+## Dog-Breed-Image-Classification-Using-CNNs-And-Transfer-Learning-In-Pytorch
+
  * This is a repo for building a Dog Breed Identification App, a project using CNN as a part of Udacity Deep Learning NanoDegree.
  * It is implemented by using PyTorch library.
  * You can refer to Original Udacity repo [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
 
 ## Project Synopsis
 
-Welcome to the Convolutional Neural Network Project in Udacity Deep Learning NanoDegree Programme.In this project,you will learn how to build a pipeline that can be used
+Welcome to the Convolutional Neural Network Project in Udacity Deep Learning NanoDegree Program.In this project,you will learn how to build a pipeline that can be used
 within a web or mobile app to process real-world,user-supplied images.Given an image of dog,your algorithm will identify an estimate of the canine's breed.If provided an image of  human,the algorithm will identify the resembling Canine breed.
 
 ![image](https://github.com/udacity/deep-learning-v2-pytorch/raw/master/project-dog-classification/images/sample_dog_output.png) ![image](https://user-images.githubusercontent.com/54153994/115130002-e7cc7800-9feb-11eb-890e-d7aa82130972.png)
