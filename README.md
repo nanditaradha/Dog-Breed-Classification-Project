@@ -29,14 +29,14 @@ Exploring the CNN models,you will get an idea about how to make vital decisions 
 
 ## Topics Related To The Project
 * Machine learning
-* Deep learning
+* Deep Learning
 * Classification
-* Convolutional neural networks
+* Convolutional Neural Networks
 * Regularization
-* Feedforward neural networks
-* backward propagation
-* Activation functions
-* Hyper-parameters tuning
+* FeedForward Neural Networks
+* Backward propagation
+* Activation Functions
+* Hyper-Parameters Tuning
 * Pytorch
 
 <h2>Programming Languages,Packages/Libraries and IDEs</h2>
