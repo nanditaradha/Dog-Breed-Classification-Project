@@ -1,4 +1,5 @@
 ## Dog-Breed-Image-Classification-Using-CNNs-And-Transfer-Learning-In-Pytorch
+Udacity Deep Learning Nanodegree Project #3.
 
  * This is a repo for building a Dog Breed Identification App, a project using CNN as a part of Udacity Deep Learning NanoDegree.
  * It is implemented by using PyTorch library.
